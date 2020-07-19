@@ -11,10 +11,10 @@ Custmize the code as per your certificates and text. Maximum 10 columns can be u
 place your details in sheet List. ensure equal text input parameters of column number
 Place your email body content. you can customize the code too.
 
-மேலும் விவரங்கள் 
-https://tech.neechalkaran.com/2020/05/online-ecertificate.html
-https://tech.neechalkaran.com/2020/07/ecertificate.html 
-
-செயல்முறை விளக்கம்
-https://www.youtube.com/watch?v=HaPINum-le0
-https://www.youtube.com/watch?v=Ey55gs3nnHc 
+மேலும் விவரங்கள் <br/>
+https://tech.neechalkaran.com/2020/05/online-ecertificate.html<br/>
+https://tech.neechalkaran.com/2020/07/ecertificate.html <br/>
+<br/>
+செயல்முறை விளக்கம்<br/>
+https://www.youtube.com/watch?v=HaPINum-le0<br/>
+https://www.youtube.com/watch?v=Ey55gs3nnHc <br/>
